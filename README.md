@@ -9,3 +9,4 @@ Update index.html tag <title>
  2. Create file as new_diagram.dwawio
  3. Export file to new_diagram.png
  4. Export file to new_diagram.svg 
+ # Lab 1.004: Add SVG image to web page
