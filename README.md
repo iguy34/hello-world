@@ -11,3 +11,4 @@ Update index.html tag <title>
  4. Export file to new_diagram.svg 
  # Lab 1.004: Add SVG image to web page
  create an img tag to display new SVG file
+ # Lab 2.000: Add Update HTML and JavaScript files to display Hello World
