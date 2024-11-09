@@ -9,14 +9,14 @@ TBD
 
 # Lab 1.002: Updating Local Repository
 
-Update index.html title tag
+Update "index.html" file "title tag"
 
 # Lab 1.003: Updating Local Repository
 
  1. VSCode Extention install of "Draw.io Integration" Extention
- 2. Create file as new_diagram.dwawio
- 3. Export file to new_diagram.png
- 4. Export file to new_diagram.svg
+ 2. Create file as "new_diagram.dwawio"
+ 3. Export file to "new_diagram.png"
+ 4. Export file to "new_diagram.svg"
 
 # Lab 1.004: Add SVG image to web page
 
