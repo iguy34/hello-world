@@ -22,6 +22,8 @@ Update "index.html" file "title tag"
 
  create an img tag to display new SVG file
 
+ ![Alt text](images/new_diagram.png)
+
 # Lab 2.000: Add Update HTML and JavaScript files to display Hello World
 
  update JavaScript file to display hello world
